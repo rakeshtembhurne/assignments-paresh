@@ -1,3 +1,2 @@
 # Assignments for Paresh
-# Pull Request create
-# Task : Only commit readme.md file
+#2 removed unwanted lines from readme.md
